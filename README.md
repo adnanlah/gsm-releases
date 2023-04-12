@@ -1,0 +1,1 @@
+# gpl-shop-manager-releases
